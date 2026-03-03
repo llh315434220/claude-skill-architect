@@ -2,6 +2,8 @@
 
 **Build high-quality Claude Skills that strictly adhere to Anthropic's official "Complete Guide to Building Skills for Claude".**
 
+[English Version](README.md) | [中文版](README_CN.md)
+
 This meta-skill transforms Claude into an expert Skill Architect. It doesn't just write prompts; it engineers robust, modular **Skill Packages** designed for reliability, maintainability, and token efficiency.
 
 ## 🚀 Features
