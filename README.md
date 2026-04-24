@@ -4,6 +4,8 @@
 
 [English Version](README.md) | [中文版](README_CN.md)
 
+[Try it online](https://socialistic.ai/claude-skill-architect-789a20?utm_source=github_readme&utm_campaign=koc_skill_creator&utm_content=hyperlink)
+
 This meta-skill transforms Claude into an expert Skill Architect. It doesn't just write prompts; it engineers robust, modular **Skill Packages** designed for reliability, maintainability, and token efficiency.
 
 ## 🚀 Features
